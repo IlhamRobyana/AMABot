@@ -1,1 +1,4 @@
+pip install -U pip
+pip uninstall setuptools
+pip install 'setuptools<20.2'
 pip install discord.py
