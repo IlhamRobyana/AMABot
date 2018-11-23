@@ -1,1 +1,10 @@
+aiohttp==1.0.5
+async-timeout==3.0.1
+chardet==3.0.4
 discord.py==0.16.12
+docopt==0.6.2
+multidict==4.5.0
+numpy==1.15.4
+opencv-python==3.4.3.18
+Pillow==5.3.0
+websockets==3.4
