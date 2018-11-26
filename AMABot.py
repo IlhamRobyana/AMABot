@@ -1,5 +1,6 @@
 # Work with Python 3.6
 
+import os
 import random
 import asyncio
 import aiohttp
