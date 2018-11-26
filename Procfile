@@ -1,1 +1,1 @@
-worker: py AMABot.py
+worker: python AMABot.py
