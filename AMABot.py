@@ -7,6 +7,9 @@ import json
 from discord import Game
 from discord.ext import commands
 
+BOT_PREFIX = os.environ['prefix']
+TOKEN = os.environ['token']
+
 bot = commands.Bot(command_prefix=BOT_PREFIX)
 
 @bot.command()
