@@ -7,9 +7,6 @@ import json
 from discord import Game
 from discord.ext import commands
 
-BOT_PREFIX = ("AMA.")
-TOKEN = 'NTE0NjM1NjQ5NDg4MjU3MDI1.DtZfHg.FMchMpxkqczKwm9o3tSX-T38PqU'
-
 bot = commands.Bot(command_prefix=BOT_PREFIX)
 
 @bot.command()
